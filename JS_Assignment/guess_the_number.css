@@ -1,0 +1,38 @@
+body {
+    padding: 190px;
+    vertical-align: middle;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background: rgb(70, 133, 216);
+}
+
+h1 {
+    color: #302323;
+}
+h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(32, 3, 27);
+    font-family: sans-serif;
+  }
+
+input[type="number"] {
+    padding: 5px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+button {
+    padding: 8px 20px;
+    margin-top: 10px;
+    background-color: #1e1616;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#message {
+    font-weight: bold;
+    margin-top: 20px;
+}
